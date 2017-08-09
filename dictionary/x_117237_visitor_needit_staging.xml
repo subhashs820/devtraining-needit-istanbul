@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="NeedIT_staging" max_length="40" name="x_117237_visitor_needit_staging" type="collection">
+        <element attributes="import_attribute_name=Caller,edge_encryption_enabled=true" label="Caller" max_length="40" name="u_caller" type="string"/>
+        <element attributes="import_attribute_name=Summary,edge_encryption_enabled=true" label="Summary" max_length="40" name="u_summary" type="string"/>
+    </element>
+</database>
